@@ -2,9 +2,9 @@
 
 Este repositorio compila los laboratorios de redes como parte del Cybersecurity Pathway de CISCO, alineado con el Certificado [Cisco Certified Support Technician (CCST) Cybersecurity](https://skillsforall.com/career-path/cybersecurity?userLang=es-XL).
 
-Los ejercicios fueron realizados en [CISCO Packet Tracer 8.2](https://www.packettracernetwork.com/download/download-packet-tracer.html)
+Los laboratorios fueron realizados en [CISCO Packet Tracer 8.2](https://www.packettracernetwork.com/download/download-packet-tracer.html)
 
-## Ejercicios
+## Laboratorios
 #### [1. Configurar enrutador doméstico](https://github.com/3tr4m/Redes_y_Ciberseguridad_CISCO/tree/master/01.%20Cofigurar%20red%20dom%C3%A9stica)
 #### [2. Conectarse a un servidor web](https://github.com/m4rtt3/Redes_y_Ciberseguridad_CISCO/tree/master/02.%20Conectarse%20a%20un%20servidor%20web)
 #### [3. La interacción con los clientes](https://github.com/m4rtt3/Redes_y_Ciberseguridad_CISCO/tree/master/03.%20Interacci%C3%B3n%20con%20clientes%20DNS%20y%20HTTP)
