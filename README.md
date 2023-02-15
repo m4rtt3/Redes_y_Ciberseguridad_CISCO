@@ -27,7 +27,7 @@ Los ejercicios fueron realizados en [CISCO Packet Tracer 8.2](https://www.packet
 #### [20. Configurar los parámetros iniciales del enrutador](https://github.com/m4rtt3/Redes_y_Ciberseguridad_CISCO/tree/master/20.%20Configurar%20los%20par%C3%A1metros%20iniciales%20del%20enrutador)
 #### [21. Configurar SSH en router](https://github.com/m4rtt3/Redes_y_Ciberseguridad_CISCO/tree/master/21.%20Configurar%20SSH%20en%20router)
 #### [22. Crear una red con un conmutador y enrutador](https://github.com/m4rtt3/Redes_y_Ciberseguridad_CISCO/tree/master/22.%20Crear%20una%20red%20con%20un%20conmutador%20y%20enrutador)
-#### [23. Solución a problemas con la puerta de enlace predeterminada\](https://github.com/m4rtt3/Redes_y_Ciberseguridad_CISCO/tree/master/23.%20Soluci%C3%B3n%20a%20problemas%20con%20la%20puerta%20de%20enlace%20predeterminada%5C)
+#### [23. Solución a problemas con la puerta de enlace predeterminada\](cmpct.io/4vW0R1JPx)
 #### [24. Verificar el Direccionamiento IPv4 e IPv6](https://github.com/m4rtt3/Redes_y_Ciberseguridad_CISCO/tree/master/24.%20Verificar%20el%20Direccionamiento%20IPv4%20e%20IPv6)
 #### [25. Usar Ping y Traceroute para Probar la Conectividad de Red](https://github.com/m4rtt3/Redes_y_Ciberseguridad_CISCO/tree/master/25.%20Usar%20Ping%20y%20Traceroute%20para%20Probar%20la%20Conectividad%20de%20Red)
 #### [26. Exploración Packet Tracer modos lógico y físico](https://github.com/m4rtt3/Redes_y_Ciberseguridad_CISCO/tree/master/26.%20Exploraci%C3%B3n%20Packet%20Tracer%20modos%20l%C3%B3gico%20y%20f%C3%ADsico)
